@@ -85,6 +85,7 @@ PlayerHealth вызывает метод PlayerLose при достижении 
 MenuController управляет активностью панелей паузы и конца игры, а также состоянием времени (Time.timeScale).
 
 5. Примеры использования
+
 Вызов получения урона: playerHealth.TakeDamage(10);
 
 Инициализация здоровья: playerHealth.InitializeHealth();
